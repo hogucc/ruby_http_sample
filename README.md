@@ -1,0 +1,2 @@
+# ruby_http_sample
+Rubyでhttpリクエストを送るサンプル
